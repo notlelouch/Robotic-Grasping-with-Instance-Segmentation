@@ -63,4 +63,3 @@ Apply a grasping point calculation algorithm to these locations.
 Efficient and accurate detection of grasping points.
 Improved performance in real-time applications.
 Enhanced reliability in diverse object environments.
-# Robotic-Grasping-with-Instance-Segmentation
